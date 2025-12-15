@@ -3,30 +3,13 @@ Hands-on Kubernetes learning, real-world labs, troubleshooting notes, and platfo
 # Kubernetes Learning Journey
 
 This repository documents my hands-on Kubernetes learning and real-world
-operational experience as a System Engineer working with:
-
-- RKE2 clusters
-- Rancher Manager
-- Storage Management
-- Backups & disaster recovery
-- Observability (Prometheus, Grafana)
-- Troubleshooting production-like issues
+operational experience as a System Engineer.
 
 ## Why this repository?
 - To build deep practical understanding of Kubernetes
 - To document real issues and solutions
 - To create a reference for platform engineering work
 - To showcase hands-on skills for interviews
-
-## Technologies Covered
-- Kubernetes (core concepts)
-- RKE2
-- Rancher
-- Longhorn
-- Velero
-- MinIO
-- Prometheus & Grafana
-- Linux networking & storage
 
 ## How to use this repo
 Each folder contains:
